@@ -41,7 +41,7 @@ The solver uses exponential integrators with order 1, 2, or 3 for fast convergen
 ## Installation
 
 ```bash
-pip install torch>=2.0.0 numpy
+pip install torch numpy
 ```
 
 ## Methods
